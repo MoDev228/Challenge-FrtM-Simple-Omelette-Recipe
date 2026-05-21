@@ -6,8 +6,8 @@ here is the image of my solution for the computer screen
 
 ## Author
 
-- Website - [BM-CODER-TG](https://github.com/BM-CODER-TG)
-- Frontend Mentor - [@BM-CODER-TG](https://www.frontendmentor.io/profile/BM-CODER-TG)
+- Website - [Solution](https://github.com/MoDev228/Challenge-FrtM-Simple-Omelette-Recipe)
+- Frontend Mentor - [@BM-CODER-TG](https://www.frontendmentor.io/profile/BoCode-BM)
 
 
 ## My Problem
